@@ -6,7 +6,7 @@
   - ⌨️ I'm a Back-End Developer living in Mashhad, Iran.
   - 💼 I'm currently working at ***Tahlilgaran Sepehr System Raya***
   - 🎓 Also, Studying as a Software Engineer At ***Montazeri University***
-  - 💬 Ask Me about, Php, Laravel, Clean Architecture 
+
 
 ##  🚀 Skills
 <p align="center">
