@@ -4,7 +4,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
   - ⌨️ I'm a Back-End Developer living in Mashhad, Iran.
-  - 💼 I'm currently working at ***Tahlilgaran Sepehr System Raya***
+  - 💼 I'm currently working as a Freelancer
   - 🎓 Also, Studying as a Software Engineer At ***Montazeri University***
 
 
