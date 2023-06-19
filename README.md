@@ -1,12 +1,5 @@
-### Hi there 👋, Call Me Davood.
-
- 
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-  - ⌨️ I'm a Back-End Developer living in Mashhad, Iran.
-  - 💼 I'm currently working as a Freelancer
-  - 🎓 Also, Studying as a Software Engineer At ***Montazeri University***
-
+### Hello there (read like Kenobi 😄).
+I'm Davood (You can call me David in other languages), a Back-End Developer from Iran. Currenctly I'm studying Software engineering and also works as a freelancer. 
 
 ##  🚀 Skills
 <p align="center">
