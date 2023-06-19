@@ -3,10 +3,10 @@ I'm Davood (You can call me David in other languages), a Back-End Developer from
 
 ##  🚀 Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,laravel,symfony,php,redis,mysql,js,linux,nginx,postman,py,stackoverflow" />
+  </a>
+</p>
   
 ## ⬆️ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
   - My Interests :
