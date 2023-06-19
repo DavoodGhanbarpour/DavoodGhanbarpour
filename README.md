@@ -1,4 +1,4 @@
-<img src='https://github.com/DavoodGhanbarpour/DavoodGhanbarpour/blob/main/header.jpg'/>
+<img src='https://github.com/DavoodGhanbarpour/DavoodGhanbarpour/blob/main/banner.jpg'/>
 
 ### Hello there (read like Kenobi 😄).
 I'm Davood (You can call me David in other languages), a Back-End Developer from Iran. Currenctly I'm studying Software engineering and also works as a freelancer. 
