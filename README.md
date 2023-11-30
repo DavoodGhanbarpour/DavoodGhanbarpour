@@ -6,7 +6,7 @@ I'm Davood (You can call me David in other languages), a Back-End Developer from
 ##  🚀 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,laravel,symfony,php,redis,mysql,js,linux,nginx,postman,py,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,docker,laravel,symfony,php,redis,mysql,linux,nginx,postman,stackoverflow" />
   </a>
 </p>
   
