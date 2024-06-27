@@ -6,23 +6,9 @@ I'm Davood (You can call me David in other languages), a Back-End Developer from
 ##  🚀 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,laravel,symfony,php,redis,mysql,linux,nginx,postman,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,docker,laravel,symfony,php,redis,mysql,linux,nginx,postman,stackoverflow,golang" />
   </a>
 </p>
-  
-## ⬆️ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-  - My Interests :
-    - 🎮 Gaming
-    - ☄ Stars & Galaxies
-    - 💻 Talking to computers
-    - 🗺 Trips, Who doesn't like trips?
-    - 🎵 Music
-  - My Plans :
-    - 😄 Work on **Open Source Projects**
-    - 🔭 Learn deeper In my field of work 'php', 'laravel'
-    - 🌱 New Things, JS Frameworks, Clean Architecture, Testing Units, ...
- 
-
   
 ## :phone: Contact Me
   - 🤟 Feel free to contact me 
